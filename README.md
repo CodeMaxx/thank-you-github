@@ -495,3 +495,4 @@ Signed,
 - Trương Thái Nguyên Bình ([@crziter](https://github.com/crziter/)), Developer, Việt Nam
 - Dave Goodchild ([@dlgoodchild](https://github.com/dlgoodchild/)), Lead Developer at Gyron Internet, Zaragoza, Spain
 - Akash Trehan([@CodeMaxx](https://github.com/CodeMaxx)), Information Security Enthusiast, CSE Student at IIT Bombay, India
+- Naveen Venkat([@nmakes](https://github.com/nmakes)), CSE Student at BITS Pilani, India
